@@ -26,7 +26,7 @@ The **YouTube Chaptering Tool** automatically segments YouTube videos into chapt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-chaptering-tool.git
+   git clone https://github.com/ganeshkotaa/Youtube-Api-Project
    cd youtube-chaptering-tool
 2. Install dependencies:
    ```bash
